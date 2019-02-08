@@ -6,6 +6,7 @@ $url=isset($_GET['url'])?$_GET['url']:'starter';
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    
     <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400,900" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo CSS_AWESOME_PATH;?>">
     <link rel="stylesheet" href="<?php echo CSS_PATH; ?>">
